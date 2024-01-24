@@ -1,4 +1,4 @@
-# API REST Prueba Tecnica SISTEMA DE CONTROL DE EMPLEADOS
+# API REST Prueba Tecnica SISTEMA DE GESTION DE EMPLEADOS
 
 - Crear el archivo .env con las configuraciones descritas en el archivo .env_example
 
